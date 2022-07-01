@@ -26,11 +26,3 @@ You can click the Preview link to take a look at your changes.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-cipolla1&show_icons=true&count_private=true&theme=algolia&exclude_repo=joe-cipolla1.github.io)](https://github.com/joe-cipolla1/github-readme-stats)
 
-***
-
-### :collision: Currently working on
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-cipolla1&repo=das&theme=algolia)](https://github.com/joe-cipolla1/das)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-***
