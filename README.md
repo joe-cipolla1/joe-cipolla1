@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :chart_with_upwards_trend: My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-cipolla1&theme=algolia)](https://github.com/joe-cipolla1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-cipolla1&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-cipolla1&show_icons=true&count_private=true&theme=algolia&exclude_repo=joe-cipolla1.github.io)](https://github.com/joe-cipolla1/github-readme-stats)
 
