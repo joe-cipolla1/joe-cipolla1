@@ -2,7 +2,6 @@
 - 👀 I’m interested in power markets and predictive modeling
 - 🌱 I’m currently learning big data processing optimization
 - 💞️ I’m looking to collaborate on reinforcement learning
-- 📫 How to reach me jcipolla@dynastypower.ca
 
 <!---
 joe-cipolla1/joe-cipolla1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :chart_with_upwards_trend: My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-cipolla1&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles,JustWhit3.github.io&theme=algolia)](https://github.com/joe-cipolla1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-cipolla1&langs_count=10&layout=compact&hide=jupyter%20notebook&exclude_repo=notebooks-collection-opendata,dotfiles,joe-cipolla1.github.io&theme=algolia)](https://github.com/joe-cipolla1/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-cipolla1&show_icons=true&count_private=true&theme=algolia&exclude_repo=joe-cipolla1.github.io)](https://github.com/joe-cipolla1/github-readme-stats)
 
@@ -33,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 
 ### :collision: Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-cipolla1&repo=osmanip&theme=algolia)](https://github.com/joe-cipolla1/das)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joe-cipolla1&repo=das&theme=algolia)](https://github.com/joe-cipolla1/das)
 
 ***
