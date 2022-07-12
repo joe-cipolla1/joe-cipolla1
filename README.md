@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe
-- I'm working on predictive modeling in power markets.
+- I'm working on predictive modeling in power markets
 - I’m looking to collaborate on reinforcement learning
 
 <!---
