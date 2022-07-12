@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joe
-- 👀 I’m interested in power markets and predictive modeling
-- 🌱 I’m currently learning big data processing optimization
-- 💞️ I’m looking to collaborate on reinforcement learning
+- I'm working on predictive modeling in power markets.
+- I’m looking to collaborate on reinforcement learning
 
 <!---
 joe-cipolla1/joe-cipolla1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
